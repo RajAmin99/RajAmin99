@@ -1,13 +1,10 @@
-# 🔍 About Me:
-
----
-
-# **👾 Ridhwaan Amin (Raj) ~~~ He/Him 👾**<br>
+# **👾 Ridhwaan Amin (Raj)**
+## (He/Him)
 <br>
 
 ---
 
-🔭 **I’m currently working on**<br>Etymolotree — a tidy etymology website with a clear data model, searchable UI and tools to curate and share word histories. I am improving the backend, data ingestion and UX, and building small, well-tested utilities for reproducible language experiments.<br>I am also focused on keeping my learning progression and GitHub activity consistent and meaningful; coding, committing and pushing to repos every day (with some well placed cheat days 😉)<br><br><br>🌱 **I’m currently learning**<br>NLP basics, production Python engineering, TypeScript and modern frontend toolchains, and robust data modelling and reproducible workflows using containers and CI. Machine Learning basics, and Java syntax also :)<br><br>💬 **Ask me about**<br>Mathematics, Python, or Linguistics!<br><br>⚡ **Fun fact**<br>I tutored maths at A-level, which taught me how to explain tricky ideas simply, and I enjoy building small applications, such as Discord bots, to keep development enjoyable.<br>
+🔭 **I’m currently working on**<br>Etymolotree — a tidy etymology website with a clear data model, searchable UI and tools to curate and share word histories. I am improving the backend, data ingestion and UX, and building small, well-tested utilities for reproducible language experiments.<br>I am also focused on keeping my learning progression and GitHub activity consistent and meaningful; coding, committing and pushing to repos regularly (with some well placed cheat days 😉)<br><br><br>🌱 **I’m currently learning**<br>NLP basics, production Python engineering, TypeScript and modern frontend toolchains, and robust data modelling and reproducible workflows using containers and CI. Machine Learning basics, and Java syntax also :)<br><br>💬 **Ask me about**<br>Mathematics, Python, or Linguistics!<br><br>⚡ **Fun fact**<br>I tutored maths at A-level, which taught me how to explain tricky ideas simply, and I enjoy building small applications, such as Discord bots, to keep development enjoyable.<br>
 
 
 ## 🌐 Reach Me Via:
